@@ -13,8 +13,8 @@
     flex-direction: column;
     align-items: center;
 }
-@media screen and (min-width: 700px) and (max-width: 900px) {
+@media screen and (min-width: 400px) and (max-width: 500px) {
     .boxes {
-        flex-wrap: wrap;
+        flex-basis: 
     }
 }
