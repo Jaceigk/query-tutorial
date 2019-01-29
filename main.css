@@ -1,0 +1,10 @@
+.boxes > div{
+    height: 300px;
+    width: 150px;
+    border: 1px solid black;
+    background-color:  blue;
+    color: pink;
+}
+.boxes > div:nth-child(even) {
+    background-color: red;
+}
